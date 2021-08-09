@@ -34,7 +34,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <i class="fa fa-envelope"></i>
-                        support@email.com
+                        support@hotmail.com
                     </div>
                     <div class="col-sm-6">
                         <i class="fa fa-phone-alt"></i>
